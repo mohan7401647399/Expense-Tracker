@@ -5,7 +5,6 @@ import TransactionList from './componenets/TransactionList';
 import AddTransaction from './componenets/AddTransaction'
 import { GlopbalProvider } from './context/GlobalState';
 
-
 function App() {
   return (
     <GlopbalProvider>
